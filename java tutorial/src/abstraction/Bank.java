@@ -7,6 +7,8 @@ public abstract class Bank {
 	System.out.println("credit card");
 	
 	System.out.println("credit card");
+        System.out.println("credit card");
+		
 	}
 	public void debit()
 	{
